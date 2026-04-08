@@ -2,3 +2,7 @@ title 1: 기초 수학 이해도와 학점과의 상관관계 및 결과 예측
  (Data analytics - Machine Learning 과목의 중간고사에서 2개의 수학 문제를 해결한 학생들의 최종 학점 성취도 예측)
 
 title 2: Pandas DataFrame 간의 JOIN과 DataBase MySQL 의 Tablbe간의 JOIN의 차이점의 이해와 학생들의 이해 방법 연구.
+
+title 3: 예측 모델과 성능 평가: 
+우즈벡 데이터 셋을 가지고 예측할 수 있는 것을 찾은 다음 80% 데이터를 가지고 예측을 하고 20% 데이터를 가지고 예측 결과를 측정한다. 
+그리고 미래를 예측할 수 있는 모델을 만든다. 
